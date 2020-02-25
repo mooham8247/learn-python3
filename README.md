@@ -1,2 +1,2 @@
 # learn-python3
-Programing in python3!
+Learning Syntax in Python3!
